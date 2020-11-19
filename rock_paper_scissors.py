@@ -1,5 +1,5 @@
 import random
-user = input("Choose one from the options [rock, paper, scissors]: ").lower()
+user = input("Choose one from the options [rock, paper, scissors]: ")
 list = ["rock","paper","scissors"]
 computer = random.choice(list)
 if user in list:
@@ -8,7 +8,7 @@ if user in list:
     if user == computer:
         print("You and computer chooses same option.")
     elif user == "scissors" and computer == "rock":
-        print(" You loose and computer loose ")
+        print(" You loose and computer won ")
     elif user == "scissors" and computer == "paper":
         print("You won and computer loose")
     elif user == "rock" and computer == "scissors":
@@ -19,4 +19,3 @@ if user in list:
         print("You loose and computer won")
     else:
         print("You loose and computer won")
-
