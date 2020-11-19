@@ -1,3 +1,8 @@
+'''
+Anas Albedaiwi
+albedaiwi1994@gmail.com
+'''
+
 import random
 dice1 = random.randrange(1 , 6)
 dice2 = random.randrange(1 , 6)
