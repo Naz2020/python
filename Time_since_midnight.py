@@ -1,3 +1,8 @@
+'''
+Anas Albedaiwi
+albedaiwi1994@gmail.com
+'''
+
 seconds = int(input('Enter number of seconds: '))
 print("hoursHappend")
 hoursHappend =input(seconds/3600)
