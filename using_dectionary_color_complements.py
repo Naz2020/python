@@ -1,3 +1,8 @@
+'''
+Anas Albedaiwi
+albedaiwi1994@gmail.com
+'''
+
 color_complements = {
      'red' : 'green',
      'green' : 'red',
