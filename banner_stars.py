@@ -1,3 +1,8 @@
+'''
+Anas Albedaiwi
+albedaiwi1994@gmail.com
+'''
+
 import sys
 dict_list = {'A':
              ["***** ",
