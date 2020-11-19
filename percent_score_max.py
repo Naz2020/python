@@ -1,4 +1,7 @@
-
+'''
+Anas Albedaiwi
+albedaiwi1994@gmail.com
+'''
 
 def to_percent(score_list, max_list):
     perc_list=[]
