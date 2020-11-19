@@ -1,3 +1,7 @@
+'''
+Anas Albedaiwi
+albedaiwi1994@gmail.com
+'''
 import random
 user = input("Choose one from the options [rock, paper, scissors]: ")
 list = ["rock","paper","scissors"]
